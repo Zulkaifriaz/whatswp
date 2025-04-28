@@ -1,0 +1,22 @@
+.whatswp-button {
+    position: fixed;
+    z-index: 9999;
+    display: block;
+}
+.bottom-left {
+    bottom: 20px;
+    left: 20px;
+}
+.bottom-right {
+    bottom: 20px;
+    right: 20px;
+}
+.small img {
+    width: 40px;
+}
+.medium img {
+    width: 60px;
+}
+.large img {
+    width: 80px;
+}
